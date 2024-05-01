@@ -21,6 +21,7 @@ This project is a simple yet effective implementation of spam and ham (non-spam)
 ## Dataset
 
 The project utilizes a dataset containing labeled emails, with each email classified as either spam or ham.
+[https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Contributing
 
